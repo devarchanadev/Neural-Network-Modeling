@@ -4,7 +4,8 @@
 
 Welcome to the **Neural Network Stock Prediction** project! This project explores the predictive power of neural networks for predicting stock market returns, comparing it with logistic regression, and understanding the impact of outliers on model performance.
 
-[![GitHub Repo](https://img.shields.io/badge/Visit-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/YourRepo) [![Dataset Source](https://img.shields.io/badge/Download-Dataset_Source-007EC6?style=for-the-badge&logo=r)](https://cran.r-project.org/web/packages/ISLR2/index.html)
+[![GitHub Repo](https://img.shields.io/badge/Visit-GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/devarchanadev/Neural-Network-Modeling) 
+[![Dataset Source](https://img.shields.io/badge/Download-Dataset_Source-007EC6?style=for-the-badge&logo=r)](https://cran.r-project.org/web/packages/ISLR2/index.html)
 
 ## 🎯 Table of Contents
 - [Project Summary](#-project-summary)
